@@ -43,9 +43,6 @@ st.markdown("""
         flex-direction: column;
         align-items: center;
         padding: 10px;
-        border: 2px solid #ecf0f1;
-        border-radius: 10px;
-        background-color: #f9f9f9;
         transition: transform 0.2s;
         margin: 0 10px; /* Add horizontal margin for spacing */
     }
