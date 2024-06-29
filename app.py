@@ -48,7 +48,6 @@ st.markdown("""
     }
     .movie-container:hover {
         transform: scale(1.05);
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
     .movie-poster {
         border-radius: 10px;
